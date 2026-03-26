@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
 * 💼 Full-stack Developer working with the modern JavaScript ecosystem
 * ⚡ I specialize in both frontend and backend development
@@ -14,9 +14,9 @@
 * 🌱 Constantly learning and improving my skills
 
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=js" height="45" hspace="6"/>
   <img src="https://skillicons.dev/icons?i=ts" height="45" hspace="6"/>
   <img src="https://skillicons.dev/icons?i=react" height="45" hspace="6"/>
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=postman" height="45" hspace="6"/>
 </p>
 
-## 🚀 Current Focus
+### 🚀 Current Focus
 
 * Building a fullstack pet project with **React.js, Next.js, Node.js, and MongoDB**
 * Writing clean and maintainable **TypeScript code**
@@ -41,7 +41,7 @@
 
 ---
 
-## 📫 Contact Me
+### 📫 Contact Me
 
 * 📧 Email: ivannashchokalo@gmail.com
 * 💼 LinkedIn: www.linkedin.com/in/ivannashchokalo
