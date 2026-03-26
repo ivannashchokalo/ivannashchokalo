@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-* 💼 Fullstack Developer working with the modern JavaScript ecosystem
+* 💼 Full-stack Developer working with the modern JavaScript ecosystem
 * ⚡ I specialize in both frontend and backend development
 * 🛠️ Currently working on my own pet project
 * 🌱 Constantly learning and improving my skills
