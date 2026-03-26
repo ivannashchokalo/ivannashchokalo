@@ -12,15 +12,15 @@
 * ⚡ I specialize in both frontend and backend development
 * 🛠️ Currently working on my own pet project
 * 🌱 Constantly learning and improving my skills
-* 👶 Mom of a little boy, balancing coding and family life
 
----
 
 ## 🛠️ Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
@@ -33,8 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </p>
-
----
 
 ## 🚀 Current Focus
 
@@ -55,7 +53,5 @@
 
 I enjoy traveling 🌍, driving 🚗, and watching movies 🎬 in my free time!
 
----
 
-⭐️ Thanks for visiting my profile!
 
