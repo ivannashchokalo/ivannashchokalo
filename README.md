@@ -13,22 +13,24 @@
 * 🛠️ Currently working on my own pet project
 * 🌱 Constantly learning and improving my skills
 
+
 ## 🛠️ Tech Stack
 
-<p >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" hspace="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" hspace="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" hspace="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" hspace="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" hspace="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" hspace="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" hspace="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" hspace="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" hspace="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" hspace="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" hspace="6"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" hspace="6"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" hspace="6"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=express" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=sass" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="45" hspace="6"/>
 </p>
 
 ## 🚀 Current Focus
