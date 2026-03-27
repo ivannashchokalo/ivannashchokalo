@@ -11,20 +11,20 @@
 ### 🛠️ Tech Stack
 
 <p >
-  <img src="https://skillicons.dev/icons?i=js" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=react" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=express" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=html" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=css" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=sass" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=git" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=github" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" hspace="6"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="45" hspace="6"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=express" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=sass" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" hspace="2"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="45" hspace="2"/>
 </p>
 
 ### 🚀 Current Focus
