@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Ivanna
 
-💻 Full-stack Developer
-📍 Based in Brno, Czech Republic
-🚀 I build modern, scalable web applications
-
----
-
 ### 👩‍💻 About Me
 
 * 💼 Full-stack Developer working with the modern JavaScript ecosystem
