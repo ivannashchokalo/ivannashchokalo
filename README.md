@@ -40,11 +40,7 @@
 * 📧 Email: ivannashchokalo@gmail.com
 * 💼 LinkedIn: www.linkedin.com/in/ivannashchokalo
 
----
 
-## ✨ Fun Fact
-
-I enjoy traveling 🌍, driving 🚗, and watching movies 🎬 in my free time!
 
 
 
