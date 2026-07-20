@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Ivanna
 
-<img src="./assets/demo.gif" width="900" alt="Pet Shop Demo">
-
 ### 👩‍💻 About Me
 
 **💼 Full-stack JavaScript Developer**
@@ -45,6 +43,9 @@
 🚗 Rental Cars — Responsive car rental application built with Next.js and TypeScript.
 
 ---
+
+<img src="./assets/demo.gif" width="900" alt="Pet Shop Demo">
+
 
 ### 📫 Contact Me
 
