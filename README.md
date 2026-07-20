@@ -42,9 +42,10 @@
 
 
 
-🛠 Admin Dashboard — Management panel with authentication, charts, CRUD operations and role-based features.
+**🛠 Admin Dashboard** — Management panel with authentication, charts, CRUD operations and role-based features.
 
-🚗 Rental Cars — Responsive car rental application built with Next.js and TypeScript.
+<img src="./assets/demo.gif" width="900" alt="Pet Shop Demo">
+
 
 ---
 
@@ -54,8 +55,9 @@
 
 * 📧 Email: ivannashchokalo@gmail.com
 * 💼 LinkedIn: www.linkedin.com/in/ivannashchokalo
+* 📄 <a href="./assets/Ivanna_Shchokalo_Fullstack_Developer.pdf">View Resume (PDF)</a>
 
-📄 <a href="./assets/Ivanna_Shchokalo_Fullstack_Developer.pdf">View Resume (PDF)</a>
+
 
 
 
