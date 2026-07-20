@@ -41,10 +41,12 @@
 <img src="./assets/demo.gif" width="900" alt="Pet Shop Demo">
 
 
+---
+
 
 **🛠 Admin Dashboard** — Management panel with authentication, charts, CRUD operations and role-based features.
 
-<img src="./assets/demo.gif" width="900" alt="Pet Shop Demo">
+<img src="./assets/demo-admin.gif" width="900" alt="Pet Shop Demo">
 
 
 ---
