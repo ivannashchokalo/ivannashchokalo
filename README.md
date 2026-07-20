@@ -36,7 +36,11 @@
 
 ### 🚀 Featured Projects
 
-🐾 Pet Shop — Full-stack marketplace built with React, Next.js, Node.js, Express and MongoDB.
+**🐾 Pet Shop** — Full-stack marketplace built with React, Next.js, Node.js, Express and MongoDB.
+
+<img src="./assets/demo.gif" width="900" alt="Pet Shop Demo">
+
+
 
 🛠 Admin Dashboard — Management panel with authentication, charts, CRUD operations and role-based features.
 
@@ -44,7 +48,6 @@
 
 ---
 
-<img src="./assets/demo.gif" width="900" alt="Pet Shop Demo">
 
 
 ### 📫 Contact Me
