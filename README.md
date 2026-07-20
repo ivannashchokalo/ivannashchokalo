@@ -2,10 +2,13 @@
 
 ### 👩‍💻 About Me
 
-*💼 Full-stack JavaScript Developer
-*🎯 Focused on React, Next.js and Node.js
-*🐾 Building a full-stack Pet Shop application
-*🌱 Always improving code quality and learning new technologies
+**💼 Full-stack JavaScript Developer**
+
+**🎯 Focused on React, Next.js and Node.js**
+
+**🐾 Building a full-stack Pet Shop application**
+
+**🌱 Always improving code quality and learning new technologies**
 
 
 ### 🛠️ Tech Stack
