@@ -2,10 +2,10 @@
 
 ### 👩‍💻 About Me
 
-* 💼 Full-stack Developer working with the modern JavaScript ecosystem
-* ⚡ I specialize in both frontend and backend development
-* 🛠️ Currently working on my own pet project
-* 🌱 Constantly learning and improving my skills
+*💼 Full-stack JavaScript Developer
+*🎯 Focused on React, Next.js and Node.js
+*🐾 Building a full-stack Pet Shop application
+*🌱 Always improving code quality and learning new technologies
 
 
 ### 🛠️ Tech Stack
