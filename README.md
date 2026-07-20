@@ -38,7 +38,7 @@
 
 **🐾 Pet Shop** — Full-stack marketplace built with React, Next.js, Node.js, Express and MongoDB.
 
-<img src="./assets/demo.gif" width="900" alt="Pet Shop Demo">
+<img src="./assets/demo-client.gif" width="900" alt="Pet Shop Demo">
 
 
 ---
