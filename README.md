@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ivanna
 
+<img src="./assets/demo.gif" width="900" alt="Pet Shop Demo">
+
 ### 👩‍💻 About Me
 
 **💼 Full-stack JavaScript Developer**
@@ -10,25 +12,21 @@
 
 **🌱 Always improving code quality and learning new technologies**
 
+---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-<p >
-  <img src="https://skillicons.dev/icons?i=js" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=react" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=express" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=html" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=css" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=sass" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=git" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=github" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" hspace="2"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="45" hspace="2"/>
-</p>
+🌐 **Frontend:** React • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • SCSS • CSS Modules
+
+🗂️ **State Management:** TanStack Query • Redux Toolkit • Zustand
+
+⚙️ **Backend:** Node.js • Express.js • MongoDB • Mongoose • REST API
+
+📝 **Forms & Validation:** React Hook Form • Formik • Yup
+
+🧰 **Tools:** Git • GitHub • Postman • Vercel • Render • VS Code • npm • Figma
+
+---
 
 ### 🚀 Current Focus
 
@@ -38,10 +36,22 @@
 
 ---
 
+### 🚀 Featured Projects
+
+🐾 Pet Shop — Full-stack marketplace built with React, Next.js, Node.js, Express and MongoDB.
+
+🛠 Admin Dashboard — Management panel with authentication, charts, CRUD operations and role-based features.
+
+🚗 Rental Cars — Responsive car rental application built with Next.js and TypeScript.
+
+---
+
 ### 📫 Contact Me
 
 * 📧 Email: ivannashchokalo@gmail.com
 * 💼 LinkedIn: www.linkedin.com/in/ivannashchokalo
+
+📄 <a href="./assets/Ivanna_Shchokalo_Fullstack_Developer.pdf">View Resume (PDF)</a>
 
 
 
