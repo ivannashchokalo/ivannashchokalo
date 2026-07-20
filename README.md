@@ -44,7 +44,7 @@
 ---
 
 
-**🛠 Admin Dashboard** — Management panel with authentication, charts, CRUD operations and role-based features.
+**🛠 Admin Dashboard** — Management panel with authentication, charts, and CRUD operations.
 
 <img src="./assets/demo-admin.gif" width="900" alt="Pet Shop Demo">
 
