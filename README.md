@@ -2,7 +2,7 @@
 
 ### 👩‍💻 About Me
 
-**💼 Full-stack JavaScript Developer**
+**💼 Full-stack Developer**
 
 **🎯 Focused on React, Next.js and Node.js**
 
