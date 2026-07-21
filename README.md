@@ -4,11 +4,11 @@
 
 **💼 Full-stack Developer**
 
-**🎯 Focused on React, Next.js and Node.js**
+**⚛️ Building modern web applications with React, Next.js, Node.js, and TypeScript**
 
-**🐾 Building a full-stack Pet Shop application**
+**✨ Passionate about writing clean, reusable, and maintainable code**
 
-**🌱 Always improving code quality and learning new technologies**
+**🌱 Continuously learning new technologies and improving my development skills**
 
 ---
 
@@ -28,9 +28,9 @@
 
 ### 🚀 Current Focus
 
-* Building a fullstack pet project with **React.js, Next.js, Node.js, and MongoDB**
-* Writing clean and maintainable **TypeScript code**
-* Improving performance and scalability
+* 🚀 Building modern full-stack web applications with React, Next.js, Node.js, MongoDB, and TypeScript
+* ✨ Writing clean, reusable, and maintainable TypeScript code
+* ⚡ Improving application performance, scalability, and user experience
 
 ---
 
